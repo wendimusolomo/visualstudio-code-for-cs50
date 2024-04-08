@@ -9,4 +9,6 @@ int main(void)
     {
         printf(" x is less than y\n");
     }
+    else
+    printf("x is not less than y\n");
 }
