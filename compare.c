@@ -15,8 +15,8 @@ int main(void)
     }
 
 
-}
 else if (x == y)
 {
     printf("x is equal to y\n");
+}
 }
